@@ -1,1 +1,1 @@
-# https://github.com/BrunoSprint/Observacoes_sobre_aplicacoes_maliciosas/
+# https://brunosprint.github.io/Observacoes_sobre_aplicacoes_maliciosas/
